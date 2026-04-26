@@ -18,6 +18,7 @@ def fetch_all_cards(api_key: str | None = None) -> list[dict]:
                 "pageSize": PAGE_SIZE,
                 "select": "id,name,set,tcgplayer",
             },
+            timeout=30,
         )
         resp.raise_for_status()
         batch = resp.json().get("data", [])
@@ -42,7 +43,7 @@ def extract_best_price(card: dict) -> dict | None:
             continue
         if best is None or market > best["market_price"]:
             best = {
-                "card_id": card["id"],
+                "card_id": card.get("id", ""),
                 "card_name": card.get("name", "Unknown"),
                 "set_name": card.get("set", {}).get("name", ""),
                 "set_year": (card.get("set", {}).get("releaseDate") or "")[:4],

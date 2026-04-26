@@ -35,6 +35,7 @@ def test_extract_best_price_skips_missing_market():
             "url": "https://www.tcgplayer.com/product/99",
             "prices": {
                 "holofoil": {"market": None, "low": 2.00},
+                "reverseHolofoil": {"market": 3.00, "low": None},
             },
         },
     }

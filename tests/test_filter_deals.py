@@ -59,3 +59,15 @@ def test_excludes_seen_ids():
     result = apply_filters(deals, seen_ids={"a"})
     assert len(result) == 1
     assert result[0]["card_id"] == "b"
+
+
+def test_includes_deal_at_exact_40_percent_threshold():
+    # filter is strictly less-than, so exactly 40% must pass
+    deals = [make_deal("a", market=10.00, low=6.00)]
+    result = apply_filters(deals, seen_ids=set())
+    assert len(result) == 1
+
+
+def test_empty_price_entries_returns_empty():
+    result = apply_filters([], seen_ids=set())
+    assert result == []

@@ -31,11 +31,13 @@ def send_deal(
             TELEGRAM_API.format(token=token, method="sendPhoto"),
             data={"chat_id": chat_id, "caption": caption},
             files={"photo": ("screenshot.png", io.BytesIO(screenshot), "image/png")},
+            timeout=30,
         )
     else:
         resp = requests.post(
             TELEGRAM_API.format(token=token, method="sendMessage"),
             json={"chat_id": chat_id, "text": caption},
+            timeout=10,
         )
     resp.raise_for_status()
 
@@ -44,5 +46,6 @@ def send_text(token: str, chat_id: str, text: str) -> None:
     resp = requests.post(
         TELEGRAM_API.format(token=token, method="sendMessage"),
         json={"chat_id": chat_id, "text": text},
+        timeout=10,
     )
     resp.raise_for_status()

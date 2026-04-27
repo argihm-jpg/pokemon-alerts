@@ -38,5 +38,45 @@
   "base2-49": {
     "first_seen": "2026-04-27",
     "card_name": "Bellsprout"
+  },
+  "xy2-103": {
+    "first_seen": "2026-04-27",
+    "card_name": "Kangaskhan-EX"
+  },
+  "base3-60": {
+    "first_seen": "2026-04-27",
+    "card_name": "Gambler"
+  },
+  "hgss4-56": {
+    "first_seen": "2026-04-27",
+    "card_name": "Aron"
+  },
+  "pl3-117": {
+    "first_seen": "2026-04-27",
+    "card_name": "Nincada"
+  },
+  "pl4-61": {
+    "first_seen": "2026-04-27",
+    "card_name": "Croagunk"
+  },
+  "dp1-110": {
+    "first_seen": "2026-04-27",
+    "card_name": "Pok\u00e9 Ball"
+  },
+  "dp1-82": {
+    "first_seen": "2026-04-27",
+    "card_name": "Gastly"
+  },
+  "bw3-19": {
+    "first_seen": "2026-04-27",
+    "card_name": "Larvesta"
+  },
+  "dc1-25": {
+    "first_seen": "2026-04-27",
+    "card_name": "Team Aqua Admin"
+  },
+  "dp1-36": {
+    "first_seen": "2026-04-27",
+    "card_name": "Purugly"
   }
 }

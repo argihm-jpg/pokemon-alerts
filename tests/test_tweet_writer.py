@@ -1,4 +1,4 @@
-from tweet_writer import generate_tweet
+from tweet_writer import generate_tweet, TEMPLATES
 
 
 def make_deal(name, low_price, url):
@@ -40,3 +40,11 @@ def test_tweet_under_280_chars():
     deal = make_deal("Extremely Long Pokemon Card Name VMAX GX EX", 99.99, "https://tcgplayer.com/123")
     tweet = generate_tweet(deal)
     assert len(tweet) <= 280
+
+
+def test_all_templates_contain_required_elements():
+    for template in TEMPLATES:
+        assert "🔥" in template
+        assert "{url}" in template
+        assert "{name}" in template
+        assert "${price}" in template

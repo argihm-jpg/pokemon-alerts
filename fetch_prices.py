@@ -16,7 +16,7 @@ def fetch_all_cards(api_key: str | None = None) -> list[dict]:
             params={
                 "page": page,
                 "pageSize": PAGE_SIZE,
-                "select": "id,name,set,tcgplayer",
+                "select": "id,name,set,tcgplayer,rarity",
             },
             timeout=30,
         )
@@ -47,6 +47,7 @@ def extract_best_price(card: dict) -> dict | None:
                 "card_name": card.get("name", "Unknown"),
                 "set_name": card.get("set", {}).get("name", ""),
                 "set_year": (card.get("set", {}).get("releaseDate") or "")[:4],
+                "rarity": card.get("rarity", ""),
                 "variant": variant,
                 "market_price": market,
                 "low_price": low,

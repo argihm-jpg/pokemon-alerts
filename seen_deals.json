@@ -1,1 +1,42 @@
-{}
+{
+  "swsh10-108": {
+    "first_seen": "2026-04-27",
+    "card_name": "Registeel"
+  },
+  "pop8-12": {
+    "first_seen": "2026-04-27",
+    "card_name": "Chimchar"
+  },
+  "dp5-82": {
+    "first_seen": "2026-04-27",
+    "card_name": "Fossil Excavator"
+  },
+  "base2-64": {
+    "first_seen": "2026-04-27",
+    "card_name": "Pok\u00e9 Ball"
+  },
+  "dp5-77": {
+    "first_seen": "2026-04-27",
+    "card_name": "Turtwig"
+  },
+  "bw8-120": {
+    "first_seen": "2026-04-27",
+    "card_name": "Escape Rope"
+  },
+  "dp1-50": {
+    "first_seen": "2026-04-27",
+    "card_name": "Haunter"
+  },
+  "ex4-85": {
+    "first_seen": "2026-04-27",
+    "card_name": "Warp Point"
+  },
+  "base5-39": {
+    "first_seen": "2026-04-27",
+    "card_name": "Dark Kadabra"
+  },
+  "base2-49": {
+    "first_seen": "2026-04-27",
+    "card_name": "Bellsprout"
+  }
+}

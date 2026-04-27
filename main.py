@@ -42,9 +42,9 @@ def main() -> None:
 
     for i, deal in enumerate(deals, start=1):
         print(f"Processing deal {i}/{total}: {deal['card_name']}")
-        screenshot = take_screenshot(deal["tcgplayer_url"])
-        tweet = generate_tweet(deal)
         try:
+            screenshot = take_screenshot(deal["tcgplayer_url"])
+            tweet = generate_tweet(deal)
             send_deal(token, chat_id, deal, tweet, screenshot, index=i, total=total)
         except Exception as exc:
             print(f"Failed to send deal {i}: {exc}")

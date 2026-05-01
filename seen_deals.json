@@ -118,5 +118,45 @@
   "dp3-6": {
     "first_seen": "2026-04-28",
     "card_name": "Gallade"
+  },
+  "ex11-2": {
+    "first_seen": "2026-05-01",
+    "card_name": "Crobat \u03b4"
+  },
+  "ex7-14": {
+    "first_seen": "2026-05-01",
+    "card_name": "Togetic"
+  },
+  "ex6-111": {
+    "first_seen": "2026-05-01",
+    "card_name": "Mr. Mime ex"
+  },
+  "ex9-96": {
+    "first_seen": "2026-05-01",
+    "card_name": "Milotic ex"
+  },
+  "ex7-9": {
+    "first_seen": "2026-05-01",
+    "card_name": "Dark Slowking"
+  },
+  "bw7-108": {
+    "first_seen": "2026-05-01",
+    "card_name": "Ditto"
+  },
+  "hgss1-7": {
+    "first_seen": "2026-05-01",
+    "card_name": "Ninetales"
+  },
+  "dp1-17": {
+    "first_seen": "2026-05-01",
+    "card_name": "Torterra"
+  },
+  "dp1-3": {
+    "first_seen": "2026-05-01",
+    "card_name": "Electivire"
+  },
+  "ex16-3": {
+    "first_seen": "2026-05-01",
+    "card_name": "Armaldo"
   }
 }

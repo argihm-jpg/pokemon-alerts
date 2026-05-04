@@ -1,7 +1,27 @@
+import time
+
 import requests
 
 POKEMONTCG_API_BASE = "https://api.pokemontcg.io/v2"
 PAGE_SIZE = 250
+_RETRY_DELAYS = [5, 10, 15]
+
+
+def _get_with_retry(url: str, headers: dict, params: dict) -> requests.Response:
+    last_exc: Exception | None = None
+    delays = [None] + _RETRY_DELAYS  # first attempt has no pre-sleep
+    for attempt, delay in enumerate(delays, start=1):
+        if delay is not None:
+            print(f"  API request failed, retrying in {delay}s (attempt {attempt}/{len(delays)})...")
+            time.sleep(delay)
+        try:
+            resp = requests.get(url, headers=headers, params=params, timeout=30)
+            resp.raise_for_status()
+            return resp
+        except Exception as exc:
+            last_exc = exc
+            print(f"  Attempt {attempt} failed: {exc}")
+    raise last_exc  # type: ignore[misc]
 
 
 def fetch_all_cards(api_key: str | None = None) -> list[dict]:
@@ -10,7 +30,7 @@ def fetch_all_cards(api_key: str | None = None) -> list[dict]:
     page = 1
 
     while True:
-        resp = requests.get(
+        resp = _get_with_retry(
             f"{POKEMONTCG_API_BASE}/cards",
             headers=headers,
             params={
@@ -18,9 +38,7 @@ def fetch_all_cards(api_key: str | None = None) -> list[dict]:
                 "pageSize": PAGE_SIZE,
                 "select": "id,name,set,tcgplayer,rarity",
             },
-            timeout=30,
         )
-        resp.raise_for_status()
         batch = resp.json().get("data", [])
         cards.extend(batch)
         if len(batch) < PAGE_SIZE:

@@ -40,7 +40,7 @@
     "card_name": "Bellsprout"
   },
   "xy2-103": {
-    "first_seen": "2026-04-27",
+    "first_seen": "2026-05-04",
     "card_name": "Kangaskhan-EX"
   },
   "base3-60": {
@@ -158,5 +158,21 @@
   "ex16-3": {
     "first_seen": "2026-05-01",
     "card_name": "Armaldo"
+  },
+  "ecard2-H19": {
+    "first_seen": "2026-05-04",
+    "card_name": "Ninetales"
+  },
+  "gym2-16": {
+    "first_seen": "2026-05-04",
+    "card_name": "Sabrina's Alakazam"
+  },
+  "xy4-121": {
+    "first_seen": "2026-05-04",
+    "card_name": "M Gengar-EX"
+  },
+  "neo4-6": {
+    "first_seen": "2026-05-04",
+    "card_name": "Dark Gengar"
   }
 }

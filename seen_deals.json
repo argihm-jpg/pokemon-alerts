@@ -214,5 +214,25 @@
   "base5-15": {
     "first_seen": "2026-05-05",
     "card_name": "Here Comes Team Rocket!"
+  },
+  "gym2-13": {
+    "first_seen": "2026-05-06",
+    "card_name": "Misty's Gyarados"
+  },
+  "sv4pt5-198": {
+    "first_seen": "2026-05-06",
+    "card_name": "Jigglypuff"
+  },
+  "ex6-113": {
+    "first_seen": "2026-05-06",
+    "card_name": "Charmander"
+  },
+  "bw9-121": {
+    "first_seen": "2026-05-06",
+    "card_name": "Max Potion"
+  },
+  "sv3-205": {
+    "first_seen": "2026-05-06",
+    "card_name": "Scizor"
   }
 }

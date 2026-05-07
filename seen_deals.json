@@ -234,5 +234,25 @@
   "sv3-205": {
     "first_seen": "2026-05-06",
     "card_name": "Scizor"
+  },
+  "xy5-147": {
+    "first_seen": "2026-05-07",
+    "card_name": "Wailord-EX"
+  },
+  "xy8-155": {
+    "first_seen": "2026-05-07",
+    "card_name": "Glalie-EX"
+  },
+  "sv3pt5-174": {
+    "first_seen": "2026-05-07",
+    "card_name": "Nidoking"
+  },
+  "xy6-104": {
+    "first_seen": "2026-05-07",
+    "card_name": "Rayquaza-EX"
+  },
+  "xy6-98": {
+    "first_seen": "2026-05-07",
+    "card_name": "Thundurus-EX"
   }
 }

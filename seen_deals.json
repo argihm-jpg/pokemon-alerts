@@ -254,5 +254,25 @@
   "xy6-98": {
     "first_seen": "2026-05-07",
     "card_name": "Thundurus-EX"
+  },
+  "pl1-128": {
+    "first_seen": "2026-05-08",
+    "card_name": "Electabuzz"
+  },
+  "bw4-96": {
+    "first_seen": "2026-05-08",
+    "card_name": "Kyurem-EX"
+  },
+  "bw10-97": {
+    "first_seen": "2026-05-08",
+    "card_name": "Genesect-EX"
+  },
+  "ecard3-H26": {
+    "first_seen": "2026-05-08",
+    "card_name": "Raikou"
+  },
+  "xy3-109": {
+    "first_seen": "2026-05-08",
+    "card_name": "Battle Reporter"
   }
 }

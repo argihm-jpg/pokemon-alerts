@@ -274,5 +274,25 @@
   "xy3-109": {
     "first_seen": "2026-05-08",
     "card_name": "Battle Reporter"
+  },
+  "ex3-100": {
+    "first_seen": "2026-05-09",
+    "card_name": "Charizard"
+  },
+  "neo1-12": {
+    "first_seen": "2026-05-09",
+    "card_name": "Pichu"
+  },
+  "sm6-146": {
+    "first_seen": "2026-05-09",
+    "card_name": "Unit Energy FightingDarknessFairy"
+  },
+  "neo2-3": {
+    "first_seen": "2026-05-09",
+    "card_name": "Hitmontop"
+  },
+  "ecard3-149": {
+    "first_seen": "2026-05-09",
+    "card_name": "Ho-oh"
   }
 }

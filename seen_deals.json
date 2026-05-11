@@ -164,7 +164,7 @@
     "card_name": "Ninetales"
   },
   "gym2-16": {
-    "first_seen": "2026-05-04",
+    "first_seen": "2026-05-11",
     "card_name": "Sabrina's Alakazam"
   },
   "xy4-121": {
@@ -176,15 +176,15 @@
     "card_name": "Dark Gengar"
   },
   "sm9-170": {
-    "first_seen": "2026-05-04",
+    "first_seen": "2026-05-11",
     "card_name": "Latias & Latios-GX"
   },
   "sv4pt5-112": {
-    "first_seen": "2026-05-04",
+    "first_seen": "2026-05-11",
     "card_name": "Entei"
   },
   "dp7-103": {
-    "first_seen": "2026-05-04",
+    "first_seen": "2026-05-11",
     "card_name": "Charizard"
   },
   "bw4-94": {
@@ -314,5 +314,9 @@
   "swsh6-232": {
     "first_seen": "2026-05-10",
     "card_name": "Psychic Energy"
+  },
+  "bw9-119": {
+    "first_seen": "2026-05-11",
+    "card_name": "Garbodor"
   }
 }

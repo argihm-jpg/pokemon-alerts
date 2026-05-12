@@ -196,15 +196,15 @@
     "card_name": "Sigilyph"
   },
   "gym1-5": {
-    "first_seen": "2026-05-05",
+    "first_seen": "2026-05-12",
     "card_name": "Erika's Vileplume"
   },
   "xy3-105": {
-    "first_seen": "2026-05-05",
+    "first_seen": "2026-05-12",
     "card_name": "Heracross-EX"
   },
   "xy1-145": {
-    "first_seen": "2026-05-05",
+    "first_seen": "2026-05-12",
     "card_name": "Skarmory-EX"
   },
   "sv7-170": {
@@ -318,5 +318,13 @@
   "bw9-119": {
     "first_seen": "2026-05-11",
     "card_name": "Garbodor"
+  },
+  "base2-16": {
+    "first_seen": "2026-05-12",
+    "card_name": "Wigglytuff"
+  },
+  "gym1-13": {
+    "first_seen": "2026-05-12",
+    "card_name": "Rocket's Scyther"
   }
 }

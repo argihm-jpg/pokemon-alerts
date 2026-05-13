@@ -224,11 +224,11 @@
     "card_name": "Jigglypuff"
   },
   "ex6-113": {
-    "first_seen": "2026-05-06",
+    "first_seen": "2026-05-13",
     "card_name": "Charmander"
   },
   "bw9-121": {
-    "first_seen": "2026-05-06",
+    "first_seen": "2026-05-13",
     "card_name": "Max Potion"
   },
   "sv3-205": {
@@ -326,5 +326,17 @@
   "gym1-13": {
     "first_seen": "2026-05-12",
     "card_name": "Rocket's Scyther"
+  },
+  "base6-19": {
+    "first_seen": "2026-05-13",
+    "card_name": "Zapdos"
+  },
+  "rsv10pt5-156": {
+    "first_seen": "2026-05-13",
+    "card_name": "Stoutland"
+  },
+  "gym1-8": {
+    "first_seen": "2026-05-13",
+    "card_name": "Lt. Surge's Magneton"
   }
 }

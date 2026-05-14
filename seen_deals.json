@@ -240,15 +240,15 @@
     "card_name": "Wailord-EX"
   },
   "xy8-155": {
-    "first_seen": "2026-05-07",
+    "first_seen": "2026-05-14",
     "card_name": "Glalie-EX"
   },
   "sv3pt5-174": {
-    "first_seen": "2026-05-07",
+    "first_seen": "2026-05-14",
     "card_name": "Nidoking"
   },
   "xy6-104": {
-    "first_seen": "2026-05-07",
+    "first_seen": "2026-05-14",
     "card_name": "Rayquaza-EX"
   },
   "xy6-98": {
@@ -338,5 +338,13 @@
   "gym1-8": {
     "first_seen": "2026-05-13",
     "card_name": "Lt. Surge's Magneton"
+  },
+  "gym2-3": {
+    "first_seen": "2026-05-14",
+    "card_name": "Brock's Ninetales"
+  },
+  "xy4-115": {
+    "first_seen": "2026-05-14",
+    "card_name": "Malamar-EX"
   }
 }

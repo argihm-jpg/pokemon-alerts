@@ -268,7 +268,7 @@
     "card_name": "Genesect-EX"
   },
   "ecard3-H26": {
-    "first_seen": "2026-05-08",
+    "first_seen": "2026-05-15",
     "card_name": "Raikou"
   },
   "xy3-109": {
@@ -346,5 +346,21 @@
   "xy4-115": {
     "first_seen": "2026-05-14",
     "card_name": "Malamar-EX"
+  },
+  "bw11-114": {
+    "first_seen": "2026-05-15",
+    "card_name": "Reshiram"
+  },
+  "gym2-1": {
+    "first_seen": "2026-05-15",
+    "card_name": "Blaine's Arcanine"
+  },
+  "ecard3-H16": {
+    "first_seen": "2026-05-15",
+    "card_name": "Magcargo"
+  },
+  "ecard3-148": {
+    "first_seen": "2026-05-15",
+    "card_name": "Golem"
   }
 }

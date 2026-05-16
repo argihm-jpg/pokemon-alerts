@@ -236,7 +236,7 @@
     "card_name": "Scizor"
   },
   "xy5-147": {
-    "first_seen": "2026-05-07",
+    "first_seen": "2026-05-16",
     "card_name": "Wailord-EX"
   },
   "xy8-155": {
@@ -264,7 +264,7 @@
     "card_name": "Kyurem-EX"
   },
   "bw10-97": {
-    "first_seen": "2026-05-08",
+    "first_seen": "2026-05-16",
     "card_name": "Genesect-EX"
   },
   "ecard3-H26": {
@@ -280,7 +280,7 @@
     "card_name": "Charizard"
   },
   "neo1-12": {
-    "first_seen": "2026-05-09",
+    "first_seen": "2026-05-16",
     "card_name": "Pichu"
   },
   "sm6-146": {
@@ -288,7 +288,7 @@
     "card_name": "Unit Energy FightingDarknessFairy"
   },
   "neo2-3": {
-    "first_seen": "2026-05-09",
+    "first_seen": "2026-05-16",
     "card_name": "Hitmontop"
   },
   "ecard3-149": {
@@ -362,5 +362,9 @@
   "ecard3-148": {
     "first_seen": "2026-05-15",
     "card_name": "Golem"
+  },
+  "xy5-149": {
+    "first_seen": "2026-05-16",
+    "card_name": "Primal Kyogre-EX"
   }
 }

@@ -292,15 +292,15 @@
     "card_name": "Hitmontop"
   },
   "ecard3-149": {
-    "first_seen": "2026-05-09",
+    "first_seen": "2026-05-17",
     "card_name": "Ho-oh"
   },
   "xy7-98": {
-    "first_seen": "2026-05-10",
+    "first_seen": "2026-05-17",
     "card_name": "M Rayquaza-EX"
   },
   "bw7-141": {
-    "first_seen": "2026-05-10",
+    "first_seen": "2026-05-17",
     "card_name": "Celebi-EX"
   },
   "sv3pt5-6": {
@@ -308,7 +308,7 @@
     "card_name": "Charizard ex"
   },
   "xy2-106": {
-    "first_seen": "2026-05-10",
+    "first_seen": "2026-05-17",
     "card_name": "Pok\u00e9mon Fan Club"
   },
   "swsh6-232": {
@@ -366,5 +366,9 @@
   "xy5-149": {
     "first_seen": "2026-05-16",
     "card_name": "Primal Kyogre-EX"
+  },
+  "sv4pt5-109": {
+    "first_seen": "2026-05-17",
+    "card_name": "Charmander"
   }
 }

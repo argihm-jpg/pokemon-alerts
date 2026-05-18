@@ -164,7 +164,7 @@
     "card_name": "Ninetales"
   },
   "gym2-16": {
-    "first_seen": "2026-05-11",
+    "first_seen": "2026-05-18",
     "card_name": "Sabrina's Alakazam"
   },
   "xy4-121": {
@@ -176,11 +176,11 @@
     "card_name": "Dark Gengar"
   },
   "sm9-170": {
-    "first_seen": "2026-05-11",
+    "first_seen": "2026-05-18",
     "card_name": "Latias & Latios-GX"
   },
   "sv4pt5-112": {
-    "first_seen": "2026-05-11",
+    "first_seen": "2026-05-18",
     "card_name": "Entei"
   },
   "dp7-103": {
@@ -252,7 +252,7 @@
     "card_name": "Rayquaza-EX"
   },
   "xy6-98": {
-    "first_seen": "2026-05-07",
+    "first_seen": "2026-05-18",
     "card_name": "Thundurus-EX"
   },
   "pl1-128": {
@@ -370,5 +370,9 @@
   "sv4pt5-109": {
     "first_seen": "2026-05-17",
     "card_name": "Charmander"
+  },
+  "gym1-3": {
+    "first_seen": "2026-05-18",
+    "card_name": "Erika's Clefable"
   }
 }

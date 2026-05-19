@@ -200,11 +200,11 @@
     "card_name": "Erika's Vileplume"
   },
   "xy3-105": {
-    "first_seen": "2026-05-12",
+    "first_seen": "2026-05-19",
     "card_name": "Heracross-EX"
   },
   "xy1-145": {
-    "first_seen": "2026-05-12",
+    "first_seen": "2026-05-19",
     "card_name": "Skarmory-EX"
   },
   "sv7-170": {
@@ -324,7 +324,7 @@
     "card_name": "Wigglytuff"
   },
   "gym1-13": {
-    "first_seen": "2026-05-12",
+    "first_seen": "2026-05-19",
     "card_name": "Rocket's Scyther"
   },
   "base6-19": {
@@ -374,5 +374,13 @@
   "gym1-3": {
     "first_seen": "2026-05-18",
     "card_name": "Erika's Clefable"
+  },
+  "xy8-156": {
+    "first_seen": "2026-05-19",
+    "card_name": "M Glalie-EX"
+  },
+  "base6-4": {
+    "first_seen": "2026-05-19",
+    "card_name": "Dark Blastoise"
   }
 }

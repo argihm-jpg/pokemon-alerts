@@ -328,7 +328,7 @@
     "card_name": "Rocket's Scyther"
   },
   "base6-19": {
-    "first_seen": "2026-05-13",
+    "first_seen": "2026-05-20",
     "card_name": "Zapdos"
   },
   "rsv10pt5-156": {
@@ -382,5 +382,21 @@
   "base6-4": {
     "first_seen": "2026-05-19",
     "card_name": "Dark Blastoise"
+  },
+  "sm12-221": {
+    "first_seen": "2026-05-20",
+    "card_name": "Arceus & Dialga & Palkia-GX"
+  },
+  "sm12-215": {
+    "first_seen": "2026-05-20",
+    "card_name": "Blastoise & Piplup-GX"
+  },
+  "sm9-161": {
+    "first_seen": "2026-05-20",
+    "card_name": "Magikarp & Wailord-GX"
+  },
+  "swsh7-180": {
+    "first_seen": "2026-05-20",
+    "card_name": "Espeon V"
   }
 }

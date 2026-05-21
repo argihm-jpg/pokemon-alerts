@@ -172,7 +172,7 @@
     "card_name": "M Gengar-EX"
   },
   "neo4-6": {
-    "first_seen": "2026-05-04",
+    "first_seen": "2026-05-21",
     "card_name": "Dark Gengar"
   },
   "sm9-170": {
@@ -398,5 +398,21 @@
   "swsh7-180": {
     "first_seen": "2026-05-20",
     "card_name": "Espeon V"
+  },
+  "neo4-5": {
+    "first_seen": "2026-05-21",
+    "card_name": "Dark Feraligatr"
+  },
+  "pl3-149": {
+    "first_seen": "2026-05-21",
+    "card_name": "Moltres"
+  },
+  "pl3-150": {
+    "first_seen": "2026-05-21",
+    "card_name": "Zapdos"
+  },
+  "sv8-205": {
+    "first_seen": "2026-05-21",
+    "card_name": "Phanpy"
   }
 }

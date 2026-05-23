@@ -264,7 +264,7 @@
     "card_name": "Kyurem-EX"
   },
   "bw10-97": {
-    "first_seen": "2026-05-16",
+    "first_seen": "2026-05-23",
     "card_name": "Genesect-EX"
   },
   "ecard3-H26": {
@@ -280,7 +280,7 @@
     "card_name": "Charizard"
   },
   "neo1-12": {
-    "first_seen": "2026-05-16",
+    "first_seen": "2026-05-23",
     "card_name": "Pichu"
   },
   "sm6-146": {
@@ -422,5 +422,17 @@
   "ecard3-H13": {
     "first_seen": "2026-05-22",
     "card_name": "Kabutops"
+  },
+  "swsh12pt5gg-GG08": {
+    "first_seen": "2026-05-23",
+    "card_name": "Electivire"
+  },
+  "pl2-112": {
+    "first_seen": "2026-05-23",
+    "card_name": "Pikachu"
+  },
+  "xy6-108": {
+    "first_seen": "2026-05-23",
+    "card_name": "Winona"
   }
 }

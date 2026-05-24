@@ -244,7 +244,7 @@
     "card_name": "Glalie-EX"
   },
   "sv3pt5-174": {
-    "first_seen": "2026-05-14",
+    "first_seen": "2026-05-24",
     "card_name": "Nidoking"
   },
   "xy6-104": {
@@ -304,7 +304,7 @@
     "card_name": "Celebi-EX"
   },
   "sv3pt5-6": {
-    "first_seen": "2026-05-10",
+    "first_seen": "2026-05-24",
     "card_name": "Charizard ex"
   },
   "xy2-106": {
@@ -320,7 +320,7 @@
     "card_name": "Garbodor"
   },
   "base2-16": {
-    "first_seen": "2026-05-12",
+    "first_seen": "2026-05-24",
     "card_name": "Wigglytuff"
   },
   "gym1-13": {
@@ -340,7 +340,7 @@
     "card_name": "Lt. Surge's Magneton"
   },
   "gym2-3": {
-    "first_seen": "2026-05-14",
+    "first_seen": "2026-05-24",
     "card_name": "Brock's Ninetales"
   },
   "xy4-115": {
@@ -434,5 +434,9 @@
   "xy6-108": {
     "first_seen": "2026-05-23",
     "card_name": "Winona"
+  },
+  "swsh45-70": {
+    "first_seen": "2026-05-24",
+    "card_name": "Pok\u00e9 Kid"
   }
 }

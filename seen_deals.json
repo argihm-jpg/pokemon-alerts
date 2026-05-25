@@ -164,7 +164,7 @@
     "card_name": "Ninetales"
   },
   "gym2-16": {
-    "first_seen": "2026-05-18",
+    "first_seen": "2026-05-25",
     "card_name": "Sabrina's Alakazam"
   },
   "xy4-121": {
@@ -176,11 +176,11 @@
     "card_name": "Dark Gengar"
   },
   "sm9-170": {
-    "first_seen": "2026-05-18",
+    "first_seen": "2026-05-25",
     "card_name": "Latias & Latios-GX"
   },
   "sv4pt5-112": {
-    "first_seen": "2026-05-18",
+    "first_seen": "2026-05-25",
     "card_name": "Entei"
   },
   "dp7-103": {
@@ -252,7 +252,7 @@
     "card_name": "Rayquaza-EX"
   },
   "xy6-98": {
-    "first_seen": "2026-05-18",
+    "first_seen": "2026-05-25",
     "card_name": "Thundurus-EX"
   },
   "pl1-128": {
@@ -438,5 +438,9 @@
   "swsh45-70": {
     "first_seen": "2026-05-24",
     "card_name": "Pok\u00e9 Kid"
+  },
+  "neo3-3": {
+    "first_seen": "2026-05-25",
+    "card_name": "Celebi"
   }
 }

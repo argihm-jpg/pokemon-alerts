@@ -172,7 +172,7 @@
     "card_name": "M Gengar-EX"
   },
   "neo4-6": {
-    "first_seen": "2026-05-21",
+    "first_seen": "2026-05-31",
     "card_name": "Dark Gengar"
   },
   "sm9-170": {
@@ -268,7 +268,7 @@
     "card_name": "Genesect-EX"
   },
   "ecard3-H26": {
-    "first_seen": "2026-05-15",
+    "first_seen": "2026-05-31",
     "card_name": "Raikou"
   },
   "xy3-109": {
@@ -420,7 +420,7 @@
     "card_name": "Suicune"
   },
   "ecard3-H13": {
-    "first_seen": "2026-05-22",
+    "first_seen": "2026-05-31",
     "card_name": "Kabutops"
   },
   "swsh12pt5gg-GG08": {
@@ -442,5 +442,13 @@
   "neo3-3": {
     "first_seen": "2026-05-25",
     "card_name": "Celebi"
+  },
+  "base6-2": {
+    "first_seen": "2026-05-31",
+    "card_name": "Articuno"
+  },
+  "bw9-120": {
+    "first_seen": "2026-05-31",
+    "card_name": "Garchomp"
   }
 }

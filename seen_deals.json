@@ -180,7 +180,7 @@
     "card_name": "Latias & Latios-GX"
   },
   "sv4pt5-112": {
-    "first_seen": "2026-05-25",
+    "first_seen": "2026-06-01",
     "card_name": "Entei"
   },
   "dp7-103": {
@@ -240,11 +240,11 @@
     "card_name": "Wailord-EX"
   },
   "xy8-155": {
-    "first_seen": "2026-05-22",
+    "first_seen": "2026-06-01",
     "card_name": "Glalie-EX"
   },
   "sv3pt5-174": {
-    "first_seen": "2026-05-24",
+    "first_seen": "2026-06-01",
     "card_name": "Nidoking"
   },
   "xy6-104": {
@@ -264,7 +264,7 @@
     "card_name": "Kyurem-EX"
   },
   "bw10-97": {
-    "first_seen": "2026-05-23",
+    "first_seen": "2026-06-01",
     "card_name": "Genesect-EX"
   },
   "ecard3-H26": {
@@ -450,5 +450,9 @@
   "bw9-120": {
     "first_seen": "2026-05-31",
     "card_name": "Garchomp"
+  },
+  "bw2-98": {
+    "first_seen": "2026-06-01",
+    "card_name": "Tornadus"
   }
 }

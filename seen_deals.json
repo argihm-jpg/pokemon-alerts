@@ -248,11 +248,11 @@
     "card_name": "Nidoking"
   },
   "xy6-104": {
-    "first_seen": "2026-05-14",
+    "first_seen": "2026-06-02",
     "card_name": "Rayquaza-EX"
   },
   "xy6-98": {
-    "first_seen": "2026-05-25",
+    "first_seen": "2026-06-02",
     "card_name": "Thundurus-EX"
   },
   "pl1-128": {
@@ -324,7 +324,7 @@
     "card_name": "Wigglytuff"
   },
   "gym1-13": {
-    "first_seen": "2026-05-19",
+    "first_seen": "2026-06-02",
     "card_name": "Rocket's Scyther"
   },
   "base6-19": {
@@ -454,5 +454,13 @@
   "bw2-98": {
     "first_seen": "2026-06-01",
     "card_name": "Tornadus"
+  },
+  "gym1-4": {
+    "first_seen": "2026-06-02",
+    "card_name": "Erika's Dragonair"
+  },
+  "bw1-115": {
+    "first_seen": "2026-06-02",
+    "card_name": "Pikachu"
   }
 }

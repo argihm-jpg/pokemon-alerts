@@ -320,7 +320,7 @@
     "card_name": "Garbodor"
   },
   "base2-16": {
-    "first_seen": "2026-05-24",
+    "first_seen": "2026-06-03",
     "card_name": "Wigglytuff"
   },
   "gym1-13": {
@@ -462,5 +462,21 @@
   "bw1-115": {
     "first_seen": "2026-06-02",
     "card_name": "Pikachu"
+  },
+  "bw4-100": {
+    "first_seen": "2026-06-03",
+    "card_name": "Emboar"
+  },
+  "xy7-89": {
+    "first_seen": "2026-06-03",
+    "card_name": "Hoopa-EX"
+  },
+  "pl1-129": {
+    "first_seen": "2026-06-03",
+    "card_name": "Hitmonchan"
+  },
+  "zsv10pt5-94": {
+    "first_seen": "2026-06-03",
+    "card_name": "Karrablast"
   }
 }

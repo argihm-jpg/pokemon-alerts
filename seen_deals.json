@@ -292,11 +292,11 @@
     "card_name": "Hitmontop"
   },
   "ecard3-149": {
-    "first_seen": "2026-05-17",
+    "first_seen": "2026-06-05",
     "card_name": "Ho-oh"
   },
   "xy7-98": {
-    "first_seen": "2026-05-17",
+    "first_seen": "2026-06-05",
     "card_name": "M Rayquaza-EX"
   },
   "bw7-141": {
@@ -490,5 +490,17 @@
   "sv4-207": {
     "first_seen": "2026-06-04",
     "card_name": "Brute Bonnet"
+  },
+  "sv2-195": {
+    "first_seen": "2026-06-05",
+    "card_name": "Tropius"
+  },
+  "sv4pt5-161": {
+    "first_seen": "2026-06-05",
+    "card_name": "Dachsbun"
+  },
+  "sv4pt5-117": {
+    "first_seen": "2026-06-05",
+    "card_name": "Slowbro"
   }
 }

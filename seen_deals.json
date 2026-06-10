@@ -320,7 +320,7 @@
     "card_name": "Garbodor"
   },
   "base2-16": {
-    "first_seen": "2026-06-03",
+    "first_seen": "2026-06-10",
     "card_name": "Wigglytuff"
   },
   "gym1-13": {
@@ -522,5 +522,21 @@
   "sv5-171": {
     "first_seen": "2026-06-09",
     "card_name": "Reuniclus"
+  },
+  "base6-17": {
+    "first_seen": "2026-06-10",
+    "card_name": "Ninetales"
+  },
+  "neo4-107": {
+    "first_seen": "2026-06-10",
+    "card_name": "Shining Charizard"
+  },
+  "sv8-199": {
+    "first_seen": "2026-06-10",
+    "card_name": "Spheal"
+  },
+  "sm7-167": {
+    "first_seen": "2026-06-10",
+    "card_name": "TV Reporter"
   }
 }

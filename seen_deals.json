@@ -236,7 +236,7 @@
     "card_name": "Scizor"
   },
   "xy5-147": {
-    "first_seen": "2026-05-16",
+    "first_seen": "2026-06-12",
     "card_name": "Wailord-EX"
   },
   "xy8-155": {
@@ -296,7 +296,7 @@
     "card_name": "Ho-oh"
   },
   "xy7-98": {
-    "first_seen": "2026-06-05",
+    "first_seen": "2026-06-12",
     "card_name": "M Rayquaza-EX"
   },
   "bw7-141": {
@@ -456,7 +456,7 @@
     "card_name": "Tornadus"
   },
   "gym1-4": {
-    "first_seen": "2026-06-02",
+    "first_seen": "2026-06-12",
     "card_name": "Erika's Dragonair"
   },
   "bw1-115": {
@@ -500,7 +500,7 @@
     "card_name": "Dachsbun"
   },
   "sv4pt5-117": {
-    "first_seen": "2026-06-05",
+    "first_seen": "2026-06-12",
     "card_name": "Slowbro"
   },
   "sv1-206": {
@@ -538,5 +538,9 @@
   "sm7-167": {
     "first_seen": "2026-06-10",
     "card_name": "TV Reporter"
+  },
+  "base6-18": {
+    "first_seen": "2026-06-12",
+    "card_name": "Venusaur"
   }
 }

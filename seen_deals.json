@@ -200,7 +200,7 @@
     "card_name": "Erika's Vileplume"
   },
   "xy3-105": {
-    "first_seen": "2026-06-06",
+    "first_seen": "2026-06-13",
     "card_name": "Heracross-EX"
   },
   "xy1-145": {
@@ -328,7 +328,7 @@
     "card_name": "Rocket's Scyther"
   },
   "base6-19": {
-    "first_seen": "2026-06-06",
+    "first_seen": "2026-06-13",
     "card_name": "Zapdos"
   },
   "rsv10pt5-156": {
@@ -504,7 +504,7 @@
     "card_name": "Slowbro"
   },
   "sv1-206": {
-    "first_seen": "2026-06-06",
+    "first_seen": "2026-06-13",
     "card_name": "Wiglett"
   },
   "swsh12pt5-18": {
@@ -542,5 +542,13 @@
   "base6-18": {
     "first_seen": "2026-06-12",
     "card_name": "Venusaur"
+  },
+  "pl2-114": {
+    "first_seen": "2026-06-13",
+    "card_name": "Surfing Pikachu"
+  },
+  "ecard3-H22": {
+    "first_seen": "2026-06-13",
+    "card_name": "Piloswine"
   }
 }

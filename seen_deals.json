@@ -492,7 +492,7 @@
     "card_name": "Brute Bonnet"
   },
   "sv2-195": {
-    "first_seen": "2026-06-05",
+    "first_seen": "2026-06-17",
     "card_name": "Tropius"
   },
   "sv4pt5-161": {
@@ -532,7 +532,7 @@
     "card_name": "Shining Charizard"
   },
   "sv8-199": {
-    "first_seen": "2026-06-10",
+    "first_seen": "2026-06-17",
     "card_name": "Spheal"
   },
   "sm7-167": {
@@ -562,5 +562,17 @@
   "ecard2-H30": {
     "first_seen": "2026-06-16",
     "card_name": "Victreebel"
+  },
+  "zsv10pt5-89": {
+    "first_seen": "2026-06-17",
+    "card_name": "Pansage"
+  },
+  "xy7-97": {
+    "first_seen": "2026-06-17",
+    "card_name": "Primal Groudon-EX"
+  },
+  "bw3-101": {
+    "first_seen": "2026-06-17",
+    "card_name": "N"
   }
 }

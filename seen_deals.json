@@ -336,7 +336,7 @@
     "card_name": "Stoutland"
   },
   "gym1-8": {
-    "first_seen": "2026-06-11",
+    "first_seen": "2026-06-18",
     "card_name": "Lt. Surge's Magneton"
   },
   "gym2-3": {
@@ -512,7 +512,7 @@
     "card_name": "Charizard V"
   },
   "xy5-159": {
-    "first_seen": "2026-06-08",
+    "first_seen": "2026-06-18",
     "card_name": "Professor Birch's Observations"
   },
   "base3-3": {
@@ -574,5 +574,17 @@
   "bw3-101": {
     "first_seen": "2026-06-17",
     "card_name": "N"
+  },
+  "bw2-97": {
+    "first_seen": "2026-06-18",
+    "card_name": "Thundurus"
+  },
+  "ecard2-H22": {
+    "first_seen": "2026-06-18",
+    "card_name": "Slowking"
+  },
+  "neo1-18": {
+    "first_seen": "2026-06-18",
+    "card_name": "Typhlosion"
   }
 }

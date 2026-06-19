@@ -180,7 +180,7 @@
     "card_name": "Latias & Latios-GX"
   },
   "sv4pt5-112": {
-    "first_seen": "2026-06-01",
+    "first_seen": "2026-06-19",
     "card_name": "Entei"
   },
   "dp7-103": {
@@ -248,7 +248,7 @@
     "card_name": "Nidoking"
   },
   "xy6-104": {
-    "first_seen": "2026-06-02",
+    "first_seen": "2026-06-19",
     "card_name": "Rayquaza-EX"
   },
   "xy6-98": {
@@ -500,7 +500,7 @@
     "card_name": "Dachsbun"
   },
   "sv4pt5-117": {
-    "first_seen": "2026-06-12",
+    "first_seen": "2026-06-19",
     "card_name": "Slowbro"
   },
   "sv1-206": {
@@ -586,5 +586,13 @@
   "neo1-18": {
     "first_seen": "2026-06-18",
     "card_name": "Typhlosion"
+  },
+  "bw7-145": {
+    "first_seen": "2026-06-19",
+    "card_name": "Black Kyurem-EX"
+  },
+  "bw9-112": {
+    "first_seen": "2026-06-19",
+    "card_name": "Latias-EX"
   }
 }

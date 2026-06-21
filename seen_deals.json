@@ -204,7 +204,7 @@
     "card_name": "Heracross-EX"
   },
   "xy1-145": {
-    "first_seen": "2026-06-11",
+    "first_seen": "2026-06-21",
     "card_name": "Skarmory-EX"
   },
   "sv7-170": {
@@ -320,7 +320,7 @@
     "card_name": "Garbodor"
   },
   "base2-16": {
-    "first_seen": "2026-06-10",
+    "first_seen": "2026-06-21",
     "card_name": "Wigglytuff"
   },
   "gym1-13": {
@@ -452,7 +452,7 @@
     "card_name": "Garchomp"
   },
   "bw2-98": {
-    "first_seen": "2026-06-08",
+    "first_seen": "2026-06-21",
     "card_name": "Tornadus"
   },
   "gym1-4": {
@@ -594,5 +594,13 @@
   "bw9-112": {
     "first_seen": "2026-06-19",
     "card_name": "Latias-EX"
+  },
+  "neo3-2": {
+    "first_seen": "2026-06-21",
+    "card_name": "Blissey"
+  },
+  "dc1-6": {
+    "first_seen": "2026-06-21",
+    "card_name": "Team Aqua's Kyogre-EX"
   }
 }

@@ -240,7 +240,7 @@
     "card_name": "Wailord-EX"
   },
   "xy8-155": {
-    "first_seen": "2026-06-15",
+    "first_seen": "2026-06-22",
     "card_name": "Glalie-EX"
   },
   "sv3pt5-174": {
@@ -268,7 +268,7 @@
     "card_name": "Genesect-EX"
   },
   "ecard3-H26": {
-    "first_seen": "2026-06-15",
+    "first_seen": "2026-06-22",
     "card_name": "Raikou"
   },
   "xy3-109": {
@@ -420,7 +420,7 @@
     "card_name": "Suicune"
   },
   "ecard3-H13": {
-    "first_seen": "2026-06-15",
+    "first_seen": "2026-06-22",
     "card_name": "Kabutops"
   },
   "swsh12pt5gg-GG08": {
@@ -444,7 +444,7 @@
     "card_name": "Celebi"
   },
   "base6-2": {
-    "first_seen": "2026-06-15",
+    "first_seen": "2026-06-22",
     "card_name": "Articuno"
   },
   "bw9-120": {
@@ -602,5 +602,9 @@
   "dc1-6": {
     "first_seen": "2026-06-21",
     "card_name": "Team Aqua's Kyogre-EX"
+  },
+  "xy2-108": {
+    "first_seen": "2026-06-22",
+    "card_name": "M Charizard-EX"
   }
 }

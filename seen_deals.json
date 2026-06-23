@@ -252,7 +252,7 @@
     "card_name": "Rayquaza-EX"
   },
   "xy6-98": {
-    "first_seen": "2026-06-16",
+    "first_seen": "2026-06-23",
     "card_name": "Thundurus-EX"
   },
   "pl1-128": {
@@ -520,7 +520,7 @@
     "card_name": "Ditto"
   },
   "sv5-171": {
-    "first_seen": "2026-06-16",
+    "first_seen": "2026-06-23",
     "card_name": "Reuniclus"
   },
   "base6-17": {
@@ -560,7 +560,7 @@
     "card_name": "Phione"
   },
   "ecard2-H30": {
-    "first_seen": "2026-06-16",
+    "first_seen": "2026-06-23",
     "card_name": "Victreebel"
   },
   "zsv10pt5-89": {
@@ -606,5 +606,13 @@
   "xy2-108": {
     "first_seen": "2026-06-22",
     "card_name": "M Charizard-EX"
+  },
+  "bw4-101": {
+    "first_seen": "2026-06-23",
+    "card_name": "Chandelure"
+  },
+  "sv2-209": {
+    "first_seen": "2026-06-23",
+    "card_name": "Arctibax"
   }
 }

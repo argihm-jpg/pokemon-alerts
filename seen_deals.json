@@ -188,7 +188,7 @@
     "card_name": "Charizard"
   },
   "bw4-94": {
-    "first_seen": "2026-05-04",
+    "first_seen": "2026-06-24",
     "card_name": "Shaymin-EX"
   },
   "bw9-118": {
@@ -472,7 +472,7 @@
     "card_name": "Hoopa-EX"
   },
   "pl1-129": {
-    "first_seen": "2026-06-03",
+    "first_seen": "2026-06-24",
     "card_name": "Hitmonchan"
   },
   "zsv10pt5-94": {
@@ -544,7 +544,7 @@
     "card_name": "Venusaur"
   },
   "pl2-114": {
-    "first_seen": "2026-06-13",
+    "first_seen": "2026-06-24",
     "card_name": "Surfing Pikachu"
   },
   "ecard3-H22": {
@@ -614,5 +614,13 @@
   "sv2-209": {
     "first_seen": "2026-06-23",
     "card_name": "Arctibax"
+  },
+  "neo2-8": {
+    "first_seen": "2026-06-24",
+    "card_name": "Politoed"
+  },
+  "zsv10pt5-122": {
+    "first_seen": "2026-06-24",
+    "card_name": "Golett"
   }
 }

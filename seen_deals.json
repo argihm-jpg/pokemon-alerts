@@ -364,7 +364,7 @@
     "card_name": "Golem"
   },
   "xy5-149": {
-    "first_seen": "2026-06-07",
+    "first_seen": "2026-06-25",
     "card_name": "Primal Kyogre-EX"
   },
   "sv4pt5-109": {
@@ -576,7 +576,7 @@
     "card_name": "N"
   },
   "bw2-97": {
-    "first_seen": "2026-06-18",
+    "first_seen": "2026-06-25",
     "card_name": "Thundurus"
   },
   "ecard2-H22": {
@@ -584,7 +584,7 @@
     "card_name": "Slowking"
   },
   "neo1-18": {
-    "first_seen": "2026-06-18",
+    "first_seen": "2026-06-25",
     "card_name": "Typhlosion"
   },
   "bw7-145": {
@@ -622,5 +622,13 @@
   "zsv10pt5-122": {
     "first_seen": "2026-06-24",
     "card_name": "Golett"
+  },
+  "xy8-162": {
+    "first_seen": "2026-06-25",
+    "card_name": "Giovanni's Scheme"
+  },
+  "sv3-222": {
+    "first_seen": "2026-06-25",
+    "card_name": "Eiscue ex"
   }
 }

@@ -160,7 +160,7 @@
     "card_name": "Armaldo"
   },
   "ecard2-H19": {
-    "first_seen": "2026-05-04",
+    "first_seen": "2026-06-26",
     "card_name": "Ninetales"
   },
   "gym2-16": {
@@ -236,7 +236,7 @@
     "card_name": "Scizor"
   },
   "xy5-147": {
-    "first_seen": "2026-06-12",
+    "first_seen": "2026-06-26",
     "card_name": "Wailord-EX"
   },
   "xy8-155": {
@@ -468,7 +468,7 @@
     "card_name": "Emboar"
   },
   "xy7-89": {
-    "first_seen": "2026-06-03",
+    "first_seen": "2026-06-26",
     "card_name": "Hoopa-EX"
   },
   "pl1-129": {
@@ -500,7 +500,7 @@
     "card_name": "Dachsbun"
   },
   "sv4pt5-117": {
-    "first_seen": "2026-06-19",
+    "first_seen": "2026-06-26",
     "card_name": "Slowbro"
   },
   "sv1-206": {
@@ -630,5 +630,9 @@
   "sv3-222": {
     "first_seen": "2026-06-25",
     "card_name": "Eiscue ex"
+  },
+  "neo2-12": {
+    "first_seen": "2026-06-26",
+    "card_name": "Tyranitar"
   }
 }

@@ -596,7 +596,7 @@
     "card_name": "Latias-EX"
   },
   "neo3-2": {
-    "first_seen": "2026-06-21",
+    "first_seen": "2026-06-28",
     "card_name": "Blissey"
   },
   "dc1-6": {
@@ -634,5 +634,21 @@
   "neo2-12": {
     "first_seen": "2026-06-26",
     "card_name": "Tyranitar"
+  },
+  "swsh8-283": {
+    "first_seen": "2026-06-28",
+    "card_name": "Grass Energy"
+  },
+  "sv4-211": {
+    "first_seen": "2026-06-28",
+    "card_name": "Aipom"
+  },
+  "sv4-210": {
+    "first_seen": "2026-06-28",
+    "card_name": "Aegislash"
+  },
+  "neo3-13": {
+    "first_seen": "2026-06-28",
+    "card_name": "Raikou"
   }
 }

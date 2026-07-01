@@ -372,7 +372,7 @@
     "card_name": "Charmander"
   },
   "gym1-3": {
-    "first_seen": "2026-05-18",
+    "first_seen": "2026-07-01",
     "card_name": "Erika's Clefable"
   },
   "xy8-156": {
@@ -472,7 +472,7 @@
     "card_name": "Hoopa-EX"
   },
   "pl1-129": {
-    "first_seen": "2026-06-24",
+    "first_seen": "2026-07-01",
     "card_name": "Hitmonchan"
   },
   "zsv10pt5-94": {
@@ -616,7 +616,7 @@
     "card_name": "Arctibax"
   },
   "neo2-8": {
-    "first_seen": "2026-06-24",
+    "first_seen": "2026-07-01",
     "card_name": "Politoed"
   },
   "zsv10pt5-122": {
@@ -650,5 +650,13 @@
   "neo3-13": {
     "first_seen": "2026-06-28",
     "card_name": "Raikou"
+  },
+  "gym2-7": {
+    "first_seen": "2026-07-01",
+    "card_name": "Giovanni's Nidoking"
+  },
+  "base6-8": {
+    "first_seen": "2026-07-01",
+    "card_name": "Dark Slowbro"
   }
 }

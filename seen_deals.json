@@ -456,7 +456,7 @@
     "card_name": "Tornadus"
   },
   "gym1-4": {
-    "first_seen": "2026-06-12",
+    "first_seen": "2026-07-02",
     "card_name": "Erika's Dragonair"
   },
   "bw1-115": {
@@ -576,7 +576,7 @@
     "card_name": "N"
   },
   "bw2-97": {
-    "first_seen": "2026-06-25",
+    "first_seen": "2026-07-02",
     "card_name": "Thundurus"
   },
   "ecard2-H22": {
@@ -584,7 +584,7 @@
     "card_name": "Slowking"
   },
   "neo1-18": {
-    "first_seen": "2026-06-25",
+    "first_seen": "2026-07-02",
     "card_name": "Typhlosion"
   },
   "bw7-145": {
@@ -658,5 +658,13 @@
   "base6-8": {
     "first_seen": "2026-07-01",
     "card_name": "Dark Slowbro"
+  },
+  "gym2-8": {
+    "first_seen": "2026-07-02",
+    "card_name": "Giovanni's Persian"
+  },
+  "rsv10pt5-148": {
+    "first_seen": "2026-07-02",
+    "card_name": "Ferroseed"
   }
 }

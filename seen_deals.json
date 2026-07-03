@@ -500,7 +500,7 @@
     "card_name": "Dachsbun"
   },
   "sv4pt5-117": {
-    "first_seen": "2026-06-26",
+    "first_seen": "2026-07-03",
     "card_name": "Slowbro"
   },
   "sv1-206": {
@@ -524,7 +524,7 @@
     "card_name": "Reuniclus"
   },
   "base6-17": {
-    "first_seen": "2026-06-10",
+    "first_seen": "2026-07-03",
     "card_name": "Ninetales"
   },
   "neo4-107": {
@@ -600,7 +600,7 @@
     "card_name": "Blissey"
   },
   "dc1-6": {
-    "first_seen": "2026-06-21",
+    "first_seen": "2026-07-03",
     "card_name": "Team Aqua's Kyogre-EX"
   },
   "xy2-108": {
@@ -628,7 +628,7 @@
     "card_name": "Giovanni's Scheme"
   },
   "sv3-222": {
-    "first_seen": "2026-06-25",
+    "first_seen": "2026-07-03",
     "card_name": "Eiscue ex"
   },
   "neo2-12": {
@@ -666,5 +666,9 @@
   "rsv10pt5-148": {
     "first_seen": "2026-07-02",
     "card_name": "Ferroseed"
+  },
+  "swsh35-79": {
+    "first_seen": "2026-07-03",
+    "card_name": "Charizard V"
   }
 }

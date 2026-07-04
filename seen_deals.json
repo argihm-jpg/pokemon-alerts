@@ -40,7 +40,7 @@
     "card_name": "Bellsprout"
   },
   "xy2-103": {
-    "first_seen": "2026-05-04",
+    "first_seen": "2026-07-04",
     "card_name": "Kangaskhan-EX"
   },
   "base3-60": {
@@ -200,7 +200,7 @@
     "card_name": "Erika's Vileplume"
   },
   "xy3-105": {
-    "first_seen": "2026-06-27",
+    "first_seen": "2026-07-04",
     "card_name": "Heracross-EX"
   },
   "xy1-145": {
@@ -548,7 +548,7 @@
     "card_name": "Surfing Pikachu"
   },
   "ecard3-H22": {
-    "first_seen": "2026-06-27",
+    "first_seen": "2026-07-04",
     "card_name": "Piloswine"
   },
   "xy12-111": {
@@ -670,5 +670,13 @@
   "swsh35-79": {
     "first_seen": "2026-07-03",
     "card_name": "Charizard V"
+  },
+  "sv3-198": {
+    "first_seen": "2026-07-04",
+    "card_name": "Gloom"
+  },
+  "sm12-241": {
+    "first_seen": "2026-07-04",
+    "card_name": "Pikachu"
   }
 }

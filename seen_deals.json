@@ -200,7 +200,7 @@
     "card_name": "Erika's Vileplume"
   },
   "xy3-105": {
-    "first_seen": "2026-07-11",
+    "first_seen": "2026-07-20",
     "card_name": "Heracross-EX"
   },
   "xy1-145": {
@@ -516,7 +516,7 @@
     "card_name": "Professor Birch's Observations"
   },
   "base3-3": {
-    "first_seen": "2026-07-11",
+    "first_seen": "2026-07-20",
     "card_name": "Ditto"
   },
   "sv5-171": {
@@ -548,7 +548,7 @@
     "card_name": "Surfing Pikachu"
   },
   "ecard3-H22": {
-    "first_seen": "2026-07-11",
+    "first_seen": "2026-07-20",
     "card_name": "Piloswine"
   },
   "xy12-111": {
@@ -576,7 +576,7 @@
     "card_name": "N"
   },
   "bw2-97": {
-    "first_seen": "2026-07-12",
+    "first_seen": "2026-07-20",
     "card_name": "Thundurus"
   },
   "ecard2-H22": {
@@ -678,5 +678,9 @@
   "sm12-241": {
     "first_seen": "2026-07-04",
     "card_name": "Pikachu"
+  },
+  "ecard3-H15": {
+    "first_seen": "2026-07-20",
+    "card_name": "Machamp"
   }
 }
